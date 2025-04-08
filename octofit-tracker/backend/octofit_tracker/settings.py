@@ -142,3 +142,5 @@ CORS_ALLOW_HEADERS = [
     'authorization',
     'x-csrftoken',
 ]
+
+CODESPACE_API_SUFFIX = "https://animated-giggle-r5gpp9j57vj3x4gg-8000.app.github.dev/"
